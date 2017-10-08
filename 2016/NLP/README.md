@@ -1,0 +1,1 @@
+This presentation and paper was a group project in an Introduction to Artificial Intelligence class, where our group presented major factors of natural language processing for an audience with little prior exposure to the subject.

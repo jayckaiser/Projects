@@ -1,0 +1,1 @@
+This presentation was presented in an Intro to Machine Learning class, overviewing two research papers that automatically infer sentiment from raw text.

@@ -1,0 +1,1 @@
+Sake was a language we created in a constructed languages course. The final project was to create a full primer over the language, as well as a lexicon. Although the language is not what I originally had anticipated at its inception, our group learned a lot about linguistics and different grammatical aspects of a wide variety of the world's languages.

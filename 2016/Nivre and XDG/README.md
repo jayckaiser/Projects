@@ -1,0 +1,1 @@
+This paper provides a rudimentary syntactic parser that implements aspects of Nivre's dependency parsing with Extensible Dependency Grammar (XDG). While not completed, this project may be remade in the future, better accounting for XDG's improvements on vanilla dependency grammar.

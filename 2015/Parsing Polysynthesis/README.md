@@ -1,0 +1,1 @@
+This project allowed myself and a fellow classmate to evaluate different syntactic formalisms that are currently used to parse polysynthetic languages, which are not easily analyzed using Chomskyan generative grammar.

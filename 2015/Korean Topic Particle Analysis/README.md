@@ -1,0 +1,1 @@
+﻿This project was to evaluate the proportion of contexts where the Korean topic particle 은/는 can appear. In completing it, I gained a better understanding of corpora (especially Korean corpora), and data extraction and analysis.

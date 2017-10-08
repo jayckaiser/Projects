@@ -1,0 +1,1 @@
+This was a final project for a graduate Advanced Syntax class. In it, I analyze a rare grammatical feature of German and try to present a solution to it using features of generative grammar.
