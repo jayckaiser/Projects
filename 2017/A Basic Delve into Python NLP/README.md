@@ -1,1 +1,0 @@
-This is a Jupyter notebook where I work with (and update) code presented in another source. This is an early attempt to work with large amounts of data using Python to extract semantic features from the Yelp dataset.
