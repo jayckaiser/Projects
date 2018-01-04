@@ -1,0 +1,3 @@
+This class project was an attempt to practice extend the work done by Hamilton et al. (2016) in retrieving domain-specific sentiment lexicons using word-embeddings taken from Reddit comment data. Although ultimately some unknown error prevented me from truly replicating their results, the entire project was very fun and informative, and I hope to reattempt it in the future.
+
+The files in Example_Outputs are examples of a single subreddit's results following my attempt at the methodologies completed by Hamilton et al. (2016) in my own work.
